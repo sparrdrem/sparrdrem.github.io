@@ -45,5 +45,15 @@ This website is mainly intended for links to many different projects that we are
 
 | Project Name | Maintainers            | Status       | Game      | Project Repository |
 | :---:        | :---:                  | :---:        | :---:     | :---:              |
+| SYGTVG-MODS  | SparrOSDeveloperTeam   | Active       | SYGTVG    | [Link](https://github.com/sparrdrem/SYGTVG-MODS)              |
 | DOS_PC       | SparrOSDeveloperTeam   | Discontinued | Minetest  | [Link](https://github.com/SparrOSDeveloperTeam/Dos_Pc)              |
 | CraftOS      | DremOS Developing Team | Unknown      | Minecraft | [Link](https://github.com/SamParisot/CraftOS)              |
+
+### Official PPAs
+
+| PPA Name              | Status  | Repository Page |
+| :---:                 | :---:   | :---:           |
+| sparrdrem/public      | Active  | [Link](https://launchpad.net/~sparrdrem/public)            |
+| sparrdrem/testing     | Private | [Link](https://launchpad.net/~sparrdrem/testing)            |
+| sparrdrem/sygtvg      | Paused  | [Link](https://launchpad.net/~sparrdrem/sygtvg)            |
+| sparrdrem/switchbuntu | Unknown | [Link](https://launchpad.net/~sparrdrem/switchbuntu)            |
