@@ -16,7 +16,7 @@ This website is mainly intended for links to many different projects that we are
 
 ### HTML, CSS, and JS Projects
 
-| Project Name     | Maintainer                                    | Status       | Project Website | Project Repository |
+| Project Name     | Maintainers                                   | Status       | Project Website | Project Repository |
 | :---:            | :---:                                         | :---:        | :---:           | :---:              |
 | DremJS           | DremOS Developing Team & SparrOSDeveloperTeam | Active       | [Link](https://sparrdrem.github.io/DremJS)           | [Link](https://github.com/sparrdrem/DremJS)              |
 | DremJS Embedded  | DremOS Developing Team & SparrOSDeveloperTeam | Unknown      | [Link](https://sparrdrem.github.io/DremJS-Embedded)           | [Link](https://github.com/sparrdrem/DremJS-Embedded)             |
@@ -26,7 +26,7 @@ This website is mainly intended for links to many different projects that we are
 
 ### Windows/ReactOS Projects
 
-| Project Name         | Maintainer               | Status       | Project Website | Project Repository |
+| Project Name         | Maintainers              | Status       | Project Website | Project Repository |
 | :---:                | :---:                    | :---:        | :---:           | :---:              |
 | woa-driverdb         | SparrOSDeveloperTeam     | Active       | [Link](https://sparrdrem.github.io/woa-driverdb)           | [Link](https://github.com/sparrdrem/woa-driverdb)             |
 | WoAPi                | DremOS Developing Team   | Active       | [Link](https://sparrdrem.github.io/WoAPi)          | [Link](https://github.com/sparrdrem/WoAPi)            |
@@ -37,7 +37,7 @@ This website is mainly intended for links to many different projects that we are
 
 ### Multi Platform Projects
 
-| Project Name                  | Maintainer                                    | Status | Project Website | Project Repository |
+| Project Name                  | Maintainers                                   | Status | Project Website | Project Repository |
 | :---:                         | :---:                                         | :---:  | :---:           | :---:              |
 | Sam&Yoe Group: The Video Game | DremOS Developing Team & SparrOSDeveloperTeam | Active | [Link](https://sparrosdeveloperteam-win.github.io/SYGTVG-REL)           | [Link](https://github.com/SparrOSDeveloperTeam/SYGTVG-REL)              |
 
