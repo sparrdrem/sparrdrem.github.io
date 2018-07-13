@@ -24,17 +24,19 @@ This website is mainly intended for links to many different projects that we are
 | Start Button     | SparrOSDeveloperTeam                          | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/Start)              |
 | SparrOS Tutorial | SparrOSDeveloperTeam                          | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS-Tutorial-Starter)              |
 
-### Windows/ReactOS Projects
+### Windows/ReactOS/DOS Projects
 
-| Project Name            | Maintainers              | Status       | Project Website | Project Repository |
-| :---:                   | :---:                    | :---:        | :---:           | :---:              |
-| woa-driverdb            | SparrOSDeveloperTeam     | Active       | [Link](https://sparrdrem.github.io/woa-driverdb)           | [Link](https://github.com/sparrdrem/woa-driverdb)             |
-| WoAPi                   | DremOS Developing Team   | Active       | [Link](https://sparrdrem.github.io/WoAPi)          | [Link](https://github.com/sparrdrem/WoAPi)            |
-| ReactOS Update          | SparrOSDeveloperTeam-Win | Active       | [Link](https://sparrosdeveloperteam-win.github.io/rosupdpage/index.html)           | [Link](https://github.com/SparrOSDeveloperTeam-Win/rosupdpage)              |
-| Windows Xp SP4 (x86)    | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844)              |
-| Windows Xp SP3 (x64)    | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/Windows-Xp-x64-SP3-KB2942844)              |
-| Qi120983 ReactOS Update | SparrOSDeveloperTeam-Win | Active       | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam-Win/IExpress-ReactOS-Qi120983)              |
-| Windows 2003 SP3        | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam-Win/Windows-2003-x86-SP3-KB2942844)              |
+| Project Name                      | Maintainers              | Status       | Project Website | Project Repository |
+| :---:                             | :---:                    | :---:        | :---:           | :---:              |
+| woa-driverdb                      | SparrOSDeveloperTeam     | Active       | [Link](https://sparrdrem.github.io/woa-driverdb)           | [Link](https://github.com/sparrdrem/woa-driverdb)             |
+| WoAPi                             | DremOS Developing Team   | Active       | [Link](https://sparrdrem.github.io/WoAPi)          | [Link](https://github.com/sparrdrem/WoAPi)            |
+| ReactOS Update                    | SparrOSDeveloperTeam-Win | Active       | [Link](https://sparrosdeveloperteam-win.github.io/rosupdpage/index.html)           | [Link](https://github.com/SparrOSDeveloperTeam-Win/rosupdpage)              |
+| Windows Xp SP4 (x86)              | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844)              |
+| Windows Xp SP3 (x64)              | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/Windows-Xp-x64-SP3-KB2942844)              |
+| Qi120983 ReactOS Update           | SparrOSDeveloperTeam-Win | Active       | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam-Win/IExpress-ReactOS-Qi120983)              |
+| Windows 2003 SP3                  | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam-Win/Windows-2003-x86-SP3-KB2942844)              |
+| Soundblaster Emulation DOS        | SparrOSDeveloperTeam     | Active       | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SoundBlaster-Emulation-DOS)              |
+| Setup Autorun Creator for Windows | SparrOSDeveloperTeam     | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS-Autorun-Setup-Creator-for-Windows)              |
 
 ### Multi Platform Projects
 
@@ -59,8 +61,8 @@ This website is mainly intended for links to many different projects that we are
 
 ### Official PPAs
 
-| PPA Name              | Status  | Repository Page |
-| :---:                 | :---:   | :---:           |
+| PPA Name              | Status  | Project Repository |
+| :---:                 | :---:   | :---:              |
 | sparrdrem/public      | Active  | [Link](https://launchpad.net/~sparrdrem/public)            |
 | sparrdrem/testing     | Private | [Link](https://launchpad.net/~sparrdrem/testing)            |
 | sparrdrem/sygtvg      | Paused  | [Link](https://launchpad.net/~sparrdrem/sygtvg)            |
@@ -68,4 +70,11 @@ This website is mainly intended for links to many different projects that we are
 
 ### Other Projects
 
-|
+| Project Name             | Maintainers            | Status       | Project Page  | Project Repository |
+| :---:                    | :---:                  | :---:        | :---:         | :---:              |
+| OAOO-Terminal-Fo3        | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam-Win/OAOO-Terminal-Fo3)            |
+| NXFront                  | DremOS Developing Team | Unknown      | Unknown       | [Link](https://github.com/SamParisot/NXFront)
+| Windows-9x-Dreamcast     | SparrOSDeveloperTeam   | Active       | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/Windows-9x-Dreamcast)              |
+| GBA Unix                 | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/gbaunix-0.0)              |
+| New Cr OS Linux Disc 2   | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/New-Cr-OS-Linux-X64-Disc2)               |
+| Yoe's NDS Cheat Database | SparrOSDeveloperTeam   | Active       | [Link](https://sparrosdeveloperteam.github.io/yoes-nds-cheat-database/)           | [Link](https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database)               |
