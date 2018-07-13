@@ -41,4 +41,9 @@ This website is mainly intended for links to many different projects that we are
 | :---:                         | :---:                                         | :---:  | :---:           | :---:              |
 | Sam&Yoe Group: The Video Game | DremOS Developing Team & SparrOSDeveloperTeam | Active | [Link](https://sparrosdeveloperteam-win.github.io/SYGTVG-REL)           | [Link](https://github.com/SparrOSDeveloperTeam/SYGTVG-REL)              |
 
+### Game Mods
 
+| Project Name | Maintainers            | Status       | Game      | Project Repository |
+| :---:        | :---:                  | :---:        | :---:     | :---:              |
+| DOS_PC       | SparrOSDeveloperTeam   | Discontinued | Minetest  | [Link](https://github.com/SparrOSDeveloperTeam/Dos_Pc)              |
+| CraftOS      | DremOS Developing Team | Unknown      | Minecraft | [Link](https://github.com/SamParisot/CraftOS)              |
