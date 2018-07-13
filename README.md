@@ -26,20 +26,28 @@ This website is mainly intended for links to many different projects that we are
 
 ### Windows/ReactOS Projects
 
-| Project Name         | Maintainers              | Status       | Project Website | Project Repository |
-| :---:                | :---:                    | :---:        | :---:           | :---:              |
-| woa-driverdb         | SparrOSDeveloperTeam     | Active       | [Link](https://sparrdrem.github.io/woa-driverdb)           | [Link](https://github.com/sparrdrem/woa-driverdb)             |
-| WoAPi                | DremOS Developing Team   | Active       | [Link](https://sparrdrem.github.io/WoAPi)          | [Link](https://github.com/sparrdrem/WoAPi)            |
-| ReactOS Update       | SparrOSDeveloperTeam-Win | Active       | [Link](https://sparrosdeveloperteam-win.github.io/rosupdpage/index.html)           | [Link](https://github.com/SparrOSDeveloperTeam-Win/rosupdpage)              |
-| Windows Xp SP4 (x86) | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844)              |
-| Windows Xp SP3 (x64) | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/Windows-Xp-x64-SP3-KB2942844)              |
-| Windows 2003 SP3     | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam-Win/Windows-2003-x86-SP3-KB2942844)              |
+| Project Name            | Maintainers              | Status       | Project Website | Project Repository |
+| :---:                   | :---:                    | :---:        | :---:           | :---:              |
+| woa-driverdb            | SparrOSDeveloperTeam     | Active       | [Link](https://sparrdrem.github.io/woa-driverdb)           | [Link](https://github.com/sparrdrem/woa-driverdb)             |
+| WoAPi                   | DremOS Developing Team   | Active       | [Link](https://sparrdrem.github.io/WoAPi)          | [Link](https://github.com/sparrdrem/WoAPi)            |
+| ReactOS Update          | SparrOSDeveloperTeam-Win | Active       | [Link](https://sparrosdeveloperteam-win.github.io/rosupdpage/index.html)           | [Link](https://github.com/SparrOSDeveloperTeam-Win/rosupdpage)              |
+| Windows Xp SP4 (x86)    | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844)              |
+| Windows Xp SP3 (x64)    | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/Windows-Xp-x64-SP3-KB2942844)              |
+| Qi120983 ReactOS Update | SparrOSDeveloperTeam-Win | Active       | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam-Win/IExpress-ReactOS-Qi120983)              |
+| Windows 2003 SP3        | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam-Win/Windows-2003-x86-SP3-KB2942844)              |
 
 ### Multi Platform Projects
 
 | Project Name                  | Maintainers                                   | Status | Project Website | Project Repository |
 | :---:                         | :---:                                         | :---:  | :---:           | :---:              |
 | Sam&Yoe Group: The Video Game | DremOS Developing Team & SparrOSDeveloperTeam | Active | [Link](https://sparrosdeveloperteam-win.github.io/SYGTVG-REL)           | [Link](https://github.com/SparrOSDeveloperTeam/SYGTVG-REL)              |
+
+### Installer Projects
+
+| Project Name             | Maintainers          | Status | Project Repository |
+| :---:                    | :---:                | :---:  | :---:              |
+| SYGTVG Debian Installer  | SparrOSDeveloperTeam | Active | [Link](https://github.com/sparrdrem/sygtvg-deb)              |
+| SYGTVG Windows Installer | SparrOSDeveloperTeam | Active | [Link](https://github.com/sparrdrem/sygtvg-win)              |
 
 ### Game Mods
 
@@ -57,3 +65,7 @@ This website is mainly intended for links to many different projects that we are
 | sparrdrem/testing     | Private | [Link](https://launchpad.net/~sparrdrem/testing)            |
 | sparrdrem/sygtvg      | Paused  | [Link](https://launchpad.net/~sparrdrem/sygtvg)            |
 | sparrdrem/switchbuntu | Unknown | [Link](https://launchpad.net/~sparrdrem/switchbuntu)            |
+
+### Other Projects
+
+|
