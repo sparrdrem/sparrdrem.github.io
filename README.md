@@ -31,6 +31,7 @@ This website is mainly intended for links to many different projects that we are
 | woa-driverdb                      | SparrOSDeveloperTeam     | Active       | [Link](https://sparrdrem.github.io/woa-driverdb)           | [Link](https://github.com/sparrdrem/woa-driverdb)             |
 | WoAPi                             | DremOS Developing Team   | Active       | [Link](https://sparrdrem.github.io/WoAPi)          | [Link](https://github.com/sparrdrem/WoAPi)            |
 | ReactOS Update                    | SparrOSDeveloperTeam-Win | Active       | [Link](https://sparrosdeveloperteam-win.github.io/rosupdpage/index.html)           | [Link](https://github.com/SparrOSDeveloperTeam-Win/rosupdpage)              |
+| Windows 9 Downloader              | DremOS Developing Team   | Active       | [Link](https://sparrdrem.github.io/Windows-9-Downloader)           | [Link](https://github.com/sparrdrem/Windows-9-Downloader)              |
 | Windows Xp SP4 (x86)              | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844)              |
 | Windows Xp SP3 (x64)              | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/Windows-Xp-x64-SP3-KB2942844)              |
 | Qi120983 ReactOS Update           | SparrOSDeveloperTeam-Win | Active       | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam-Win/IExpress-ReactOS-Qi120983)              |
@@ -68,11 +69,13 @@ This website is mainly intended for links to many different projects that we are
 | sparrdrem/testing     | Private | [Link](https://launchpad.net/~sparrdrem/testing)            |
 | sparrdrem/sygtvg      | Paused  | [Link](https://launchpad.net/~sparrdrem/sygtvg)            |
 | sparrdrem/switchbuntu | Unknown | [Link](https://launchpad.net/~sparrdrem/switchbuntu)            |
+| sparrdrem/pubg        | Active  | [Link](https://launchpad.net/~sparrdrem/pubg)            |
 
 ### Other Projects
 
 | Project Name             | Maintainers            | Status       | Project Page  | Project Repository |
 | :---:                    | :---:                  | :---:        | :---:         | :---:              |
+| Ubuntu Archived Debs     | SparrOSDeveloperTeam   | Active       | [Link](https://sparrdrem.github.io/ubuntu)            | [Link](https://github.com/sparrdrem/ubuntu)               |
 | OAOO-Terminal-Fo3        | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam-Win/OAOO-Terminal-Fo3)            |
 | NXFront                  | DremOS Developing Team | Unknown      | Unknown       | [Link](https://github.com/SamParisot/NXFront)
 | Windows-9x-Dreamcast     | SparrOSDeveloperTeam   | Active       | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/Windows-9x-Dreamcast)              |
