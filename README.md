@@ -2,6 +2,14 @@ Welcome to [https://sparrdrem.github.io](https://sparrdrem.github.io)!
 
 This website is mainly intended for links to many different projects that we are working on.
 
+### Official User Sites
+
+| Site      | User              | Website |
+| :---:     | :---:             | :---:   |
+| Launchpad | sparrdrem         | [Link](https://launchpad.net/~sparrdrem)    |
+| YouTube   | The Sam&Yoe Group | [Link](https://www.youtube.com/channel/UCtP8T6GjJdAyq0pp9Obv97w)    |
+| Itch.io   | sparrdrem         | [Link](https://sparrdrem.itch.io)    |
+
 ### Operating Systems
 
 | Project Name           | Maintainers            | Status       | Project Website | Project Repository |
