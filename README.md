@@ -18,6 +18,7 @@ This website is mainly intended for links to many different projects that we are
 | SparrOS Pi             | SparrOSDeveloperTeam   | Active       | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS-Pi)              |
 | DremOS                 | DremOS Developing Team | Active       | [Link](https://samparisot.github.io/DremOS)           | [Link](https://github.com/SamParisot/DremOS)             |
 | Ubuntu Netbook Edition | SparrOSDeveloperTeam   | Active       | [Link](https://sparrdrem.github.io/une)           | [Link](https://github.com/sparrdrem/une)             |
+| Ubuntu Mini-LTS Remix  | SparrOSDeveloperTeam and others       | [Link](https://sparrosdeveloperteam.github.io/mini-lts)           | [Link](https://github.com/SparrOSDeveloperTeam/mini-lts)              |
 | Commodore OS Vision II | SparrOSDeveloperTeam   | Active       | [Link](https://sparrosdeveloperteam.github.io/COS)           | [Link](https://github.com/SparrOSDeveloperTeam/COS)                    |
 | DOSRescuer             | SparrOSDeveloperTeam   | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS-DOSRescuer)              |
 | DOS_PE                 | SparrOSDeveloperTeam   | Active       | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/DOS_PE)
@@ -37,6 +38,7 @@ This website is mainly intended for links to many different projects that we are
 | Project Name                      | Maintainers              | Status       | Project Website | Project Repository |
 | :---:                             | :---:                    | :---:        | :---:           | :---:              |
 | woa-driverdb                      | SparrOSDeveloperTeam     | Active       | [Link](https://sparrdrem.github.io/woa-driverdb)           | [Link](https://github.com/sparrdrem/woa-driverdb)             |
+| Halo Portable Edition Maker       | SparrOSDeveloperTeam     | Active?      | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/halo)              |
 | WoAPi                             | DremOS Developing Team   | Active       | [Link](https://sparrdrem.github.io/WoAPi)          | [Link](https://github.com/sparrdrem/WoAPi)            |
 | ReactOS Update                    | SparrOSDeveloperTeam-Win | Active       | [Link](https://sparrosdeveloperteam-win.github.io/rosupdpage/index.html)           | [Link](https://github.com/SparrOSDeveloperTeam-Win/rosupdpage)              |
 | Windows 9 Downloader              | DremOS Developing Team   | Active       | [Link](https://sparrdrem.github.io/Windows-9-Downloader)           | [Link](https://github.com/sparrdrem/Windows-9-Downloader)              |
@@ -52,8 +54,8 @@ This website is mainly intended for links to many different projects that we are
 | Project Name                         | Maintainers                                   | Status | Project Website | Project Repository |
 | :---:                                | :---:                                         | :---:  | :---:           | :---:              |
 | Sam&Yoe Group: The Video Game        | DremOS Developing Team & SparrOSDeveloperTeam | Active | [Link](https://sparrosdeveloperteam-win.github.io/SYGTVG-REL)           | [Link](https://github.com/SparrOSDeveloperTeam/SYGTVG-REL)              |
-| Public Undergrounds Butchery Grounds | SparrOSDeveloperTeam                          | Active | [Link](#)            | [Link](#)              |
-| PortLite                             | DremOS Developing Team & SparrOSDeveloperTeam | Active | [Link](https://sparrdrem.github.io/portlite)            | [Link](https://github.com/sparrdrem/portlite)              |
+[comment]: <>(| Public Undergrounds Butchery Grounds | SparrOSDeveloperTeam                          | Active | [Link](#)            | [Link](#)              |)
+[comment]: <>(| PortLite                             | DremOS Developing Team & SparrOSDeveloperTeam | Active | [Link](https://sparrdrem.github.io/portlite)            | [Link](https://github.com/sparrdrem/portlite)              |)
 
 ### Installer Projects
 
