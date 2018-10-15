@@ -2,6 +2,8 @@ Welcome to [https://sparrdrem.github.io](https://sparrdrem.github.io)!
 
 This website is mainly intended for links to many different projects that we are working on.
 
+We are currently working on different ways to access this site without the need for bookmarking or memorizing the page.
+
 ### Official User Sites
 
 | Site      | User              | Website |
@@ -54,6 +56,7 @@ This website is mainly intended for links to many different projects that we are
 | Project Name                         | Maintainers                                   | Status | Project Website | Project Repository |
 | :---:                                | :---:                                         | :---:  | :---:           | :---:              |
 | Sam&Yoe Group: The Video Game        | DremOS Developing Team & SparrOSDeveloperTeam | Active | [Link](https://sparrosdeveloperteam-win.github.io/SYGTVG-REL)           | [Link](https://github.com/SparrOSDeveloperTeam/SYGTVG-REL)              |
+| LALO: Early Development Access       | SparrOSDeveloperTeam                          | Paused | [Link](https://sparrdrem.itch.io/laloeda-0002
 [comment]: <>(| Public Undergrounds Butchery Grounds | SparrOSDeveloperTeam                          | Active | [Link](#)            | [Link](#)              |)
 [comment]: <>(| PortLite                             | DremOS Developing Team & SparrOSDeveloperTeam | Active | [Link](https://sparrdrem.github.io/portlite)            | [Link](https://github.com/sparrdrem/portlite)              |)
 
