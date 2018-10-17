@@ -41,6 +41,7 @@ We are currently working on different ways to access this site without the need 
 | :---:                             | :---:                    | :---:        | :---:           | :---:              |
 | woa-driverdb                      | SparrOSDeveloperTeam     | Active       | [Link](https://sparrdrem.github.io/woa-driverdb)           | [Link](https://github.com/sparrdrem/woa-driverdb)             |
 | Halo Portable Edition Maker       | SparrOSDeveloperTeam     | Active?      | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/halo)              |
+| Free Sonic Collection PC          | SparrOSDeveloperTeam     | Active       | [Link](https://sparrosdeveloperteam.github.io/sonicpc)           | [Link](https://github.com/SparrOSDeveloperTeam/sonicpc)              |
 | WoAPi                             | DremOS Developing Team   | Active       | [Link](https://sparrdrem.github.io/WoAPi)          | [Link](https://github.com/sparrdrem/WoAPi)            |
 | ReactOS Update                    | SparrOSDeveloperTeam-Win | Active       | [Link](https://sparrosdeveloperteam-win.github.io/rosupdpage/index.html)           | [Link](https://github.com/SparrOSDeveloperTeam-Win/rosupdpage)              |
 | Windows 9 Downloader              | DremOS Developing Team   | Active       | [Link](https://sparrdrem.github.io/Windows-9-Downloader)           | [Link](https://github.com/sparrdrem/Windows-9-Downloader)              |
@@ -82,6 +83,7 @@ We are currently working on different ways to access this site without the need 
 | sparrdrem/sygtvg      | Paused  | [Link](https://launchpad.net/~sparrdrem/sygtvg)            |
 | sparrdrem/switchbuntu | Unknown | [Link](https://launchpad.net/~sparrdrem/switchbuntu)            |
 | sparrdrem/pubg        | Active  | [Link](https://launchpad.net/~sparrdrem/pubg)            |
+| sparrdrem/laloeda     | Active  | [Link](https://launchpad.net/~sparrdrem/laloeda)              |
 
 ### Other Projects
 
