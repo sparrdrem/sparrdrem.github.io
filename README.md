@@ -58,6 +58,7 @@ We are currently working on different ways to access this site without the need 
 | :---:                                | :---:                                         | :---:  | :---:           | :---:              |
 | Sam&Yoe Group: The Video Game        | DremOS Developing Team & SparrOSDeveloperTeam | Active | [Link](https://sparrosdeveloperteam-win.github.io/SYGTVG-REL)           | [Link](https://github.com/SparrOSDeveloperTeam/SYGTVG-REL)              |
 | LALO: Early Development Access       | SparrOSDeveloperTeam                          | Paused | [Link](https://sparrdrem.itch.io/laloeda-0002)              | Not Available |
+| HomeWARE                             | SparrOSDeveloperTeam & DremOS Developing Team | Active | [Link](https://sparrdrem.github.io/homeware)              | [Link](https://github.com/sparrdrem/homeware)              |
 
 ### Installer Projects
 
