@@ -17,13 +17,14 @@ We are currently working on different ways to access this site without the need 
 | Project Name           | Maintainers            | Status       | Project Website | Project Repository |
 | :---:                  | :---:                  | :---:        | :---:           | :---:              |
 | SparrOS                | SparrOSDeveloperTeam   | Active       | [Link](https://sparrosdeveloperteam.github.io/SparrOS)           | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS)              |
-| SparrOS Pi             | SparrOSDeveloperTeam   | Active       | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS-Pi)              |
+| SparrOS Pi             | SparrOSDeveloperTeam   | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS-Pi)              |
 | DremOS                 | DremOS Developing Team | Active       | [Link](https://samparisot.github.io/DremOS)           | [Link](https://github.com/SamParisot/DremOS)             |
 | Ubuntu Netbook Edition | SparrOSDeveloperTeam   | Active       | [Link](https://sparrdrem.github.io/une)           | [Link](https://github.com/sparrdrem/une)             |
 | Ubuntu Mini-LTS Remix  | SparrOSDeveloperTeam and others       | [Link](https://sparrosdeveloperteam.github.io/mini-lts)           | [Link](https://github.com/SparrOSDeveloperTeam/mini-lts)              |
 | Commodore OS Vision II | SparrOSDeveloperTeam   | Active       | [Link](https://sparrosdeveloperteam.github.io/COS)           | [Link](https://github.com/SparrOSDeveloperTeam/COS)                    |
+| ImagePE (WinPE)        | SparrDrem              | Active       | Not Available   | [Link](https://github.com/sparrdrem/imagepe)
 | DOSRescuer             | SparrOSDeveloperTeam   | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS-DOSRescuer)              |
-| DOS_PE                 | SparrOSDeveloperTeam   | Active       | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/DOS_PE)
+| DOS_PE                 | SparrOSDeveloperTeam   | Active       | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/DOS_PE)              |
 
 ### HTML, CSS, and JS Projects
 
@@ -39,6 +40,7 @@ We are currently working on different ways to access this site without the need 
 
 | Project Name                      | Maintainers              | Status       | Project Website | Project Repository |
 | :---:                             | :---:                    | :---:        | :---:           | :---:              |
+| Gencode                           | SparrDrem                | Active       | [Link](https://sparrdrem.github.io/gencode)                | [Link](https://github.com/sparrdrem/gencode)              |
 | woa-driverdb                      | SparrOSDeveloperTeam     | Active       | [Link](https://sparrdrem.github.io/woa-driverdb)           | [Link](https://github.com/sparrdrem/woa-driverdb)             |
 | Halo Portable Edition Maker       | SparrOSDeveloperTeam     | Active?      | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/halo)              |
 | Free Sonic Collection PC          | SparrOSDeveloperTeam     | Active       | [Link](https://sparrosdeveloperteam.github.io/sonicpc)           | [Link](https://github.com/SparrOSDeveloperTeam/sonicpc)              |
