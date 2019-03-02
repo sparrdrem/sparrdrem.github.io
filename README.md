@@ -11,6 +11,7 @@ We are currently working on different ways to access this site without the need 
 | Launchpad | sparrdrem         | [Link](https://launchpad.net/~sparrdrem)    |
 | YouTube   | The Sam&Yoe Group | [Link](https://www.youtube.com/channel/UCtP8T6GjJdAyq0pp9Obv97w)    |
 | Itch.io   | sparrdrem         | [Link](https://sparrdrem.itch.io)    |
+| Gossamer  | Project Gossamer  | [Link](https://github.com/pjgossamer)    |
 
 ### Operating Systems
 
