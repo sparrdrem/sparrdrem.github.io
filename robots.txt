@@ -20,4 +20,3 @@ Disallow: /ubuntu
 Disallow: /une
 Disallow: /woa-driverdb
 Allow: /collection.js
-Disallow: /
