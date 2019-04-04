@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /homeware
-Allow: /gencode
 Disallow: /ScienceDB
 Disallow: /Webicare
 Allow: /DremJS
