@@ -33,7 +33,7 @@ We are currently working on different ways to access this site without the need 
 | :---:            | :---:                                         | :---:        | :---:           | :---:              |
 | DremJS           | DremOSDeveloperTeam & SparrOSDeveloperTeam    | Active       | [Link](https://sparrdrem.github.io/DremJS)           | [Link](https://github.com/sparrdrem/DremJS)              |
 | DremJS Embedded  | DremOSDeveloperTeam & SparrOSDeveloperTeam    | Unknown      | [Link](https://sparrdrem.github.io/DremJS-Embedded)           | [Link](https://github.com/sparrdrem/DremJS-Embedded)             |
-| DremJS Wear      | DremOSDeveloperTeam                           | Dormant      | [Link](https://github.com/sparrdrem/DremJS-Wear/  |
+| DremJS Wear      | DremOSDeveloperTeam                           | Dormant      | [Link](https://github.com/sparrdrem/DremJS-Wear/)  |
 | collection.js    | SparrOSDeveloperTeam                          | Active       | [Link](https://sparrdrem.github.io/collection.js)           | [Link](https://github.com/sparrdrem/collection.js)              |
 | Start Button     | SparrOSDeveloperTeam                          | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/Start)              |
 | SparrOS Tutorial | SparrOSDeveloperTeam                          | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS-Tutorial-Starter)              |
@@ -64,7 +64,14 @@ We are currently working on different ways to access this site without the need 
 | LALO: Early Development Access       | SparrOSDeveloperTeam                          | Paused | [Link](https://sparrdrem.itch.io/laloeda-0002)              | Not Available |
 | HomeWARE                             | SparrOSDeveloperTeam & DremOS Developing Team | Active | [Link](https://sparrdrem.github.io/homeware)              | [Link](https://github.com/sparrdrem/homeware)              |
 | Old to New Remote Printing Standard  | DremOSDeveloperTeam                           | Active | [Link](https://github.com/sparrdrem/otn)  |
-| OTN Modern Client Project            | DremOSDeveloperTeam                           | Active | [Link](https://github.com/sparrdrem/otnmcp)  |
+| OTN Modern Client Project (See Below)| DremOSDeveloperTeam                           | Active | [Link](https://github.com/sparrdrem/otnmcp)  |
+
+### OTN Modern Client Project Implimentations
+| Implimentation                       | Maintainers         | Status  | Website Link | Project Branch |
+| :---:                                | :---:               | :---:   | :---:        | :---:          |
+| Chrome Extension                     | DremOSDeveloperTeam | Active  | Unfinished   | [chrome](https://github.com/sparrdrem/otnmcp/tree/chrome)  |
+| HTML                                 | DremOSDeveloperTeam | Planned | Unfinished   | Unfinished     |
+| Nintendo 3DS (why did we make this?) | DremOSDeveloperTeam | Active  | Unfinished   | [3ds](https://github.com/sparrdrem/otnmcp/tree/3ds)     |
 
 ### Installer Projects
 
