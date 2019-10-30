@@ -67,6 +67,9 @@ We are currently working on different ways to access this site without the need 
 | OTN Modern Client Project (See Below)| DremOSDeveloperTeam                           | Active | Unfinished     | [Link](https://github.com/sparrdrem/otnmcp)  |
 
 ### OTN Modern Client Project Implimentations
+
+Notice: Any project below that is marked as "Active" but has no source code is more than likely in the process of being made. We will dump the source code when it is ready.
+
 | Implimentation                       | Maintainers         | Status  | Website Link | Project Branch |
 | :---:                                | :---:               | :---:   | :---:        | :---:          |
 | Chrome Extension                     | DremOSDeveloperTeam | Active  | Unfinished   | [chrome](https://github.com/sparrdrem/otnmcp/tree/chrome)  |
