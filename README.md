@@ -1,4 +1,4 @@
-Welcome to [https://sparrdrem.github.io](https://sparrdrem.github.io)!
+Welcome to the SparrDrem Home Page!
 
 This website is mainly intended for links to many different projects that we are working on.
 
