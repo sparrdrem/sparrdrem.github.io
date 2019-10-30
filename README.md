@@ -70,7 +70,7 @@ We are currently working on different ways to access this site without the need 
 | Implimentation                       | Maintainers         | Status  | Website Link | Project Branch |
 | :---:                                | :---:               | :---:   | :---:        | :---:          |
 | Chrome Extension                     | DremOSDeveloperTeam | Active  | Unfinished   | [chrome](https://github.com/sparrdrem/otnmcp/tree/chrome)  |
-| HTML                                 | DremOSDeveloperTeam | Planned | Unfinished   | Unfinished     |
+| HTML                                 | DremOSDeveloperTeam | Planned | Unfinished   | [html](https://github.com/sparrdrem/otnmcp/tree/html)     |
 | Nintendo 3DS (why did we make this?) | DremOSDeveloperTeam | Active  | Unfinished   | [3ds](https://github.com/sparrdrem/otnmcp/tree/3ds)     |
 
 ### Installer Projects
