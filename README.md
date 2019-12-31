@@ -113,3 +113,5 @@ Notice: Any project below that is marked as "Active" but has no source code is m
 | GBA Unix                 | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/gbaunix-0.0)              |
 | New Cr OS Linux Disc 2   | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/New-Cr-OS-Linux-X64-Disc2)               |
 | Yoe's NDS Cheat Database | SparrOSDeveloperTeam   | Active       | [Link](https://sparrosdeveloperteam.github.io/yoes-nds-cheat-database/)           | [Link](https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database)               |
+
+&copy; SparrDrem 2020
