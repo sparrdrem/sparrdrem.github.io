@@ -17,8 +17,8 @@ We are currently working on different ways to access this site without the need 
 
 | Project Name           | Maintainers            | Status       | Project Website | Project Repository |
 | :---:                  | :---:                  | :---:        | :---:           | :---:              |
-| SparrOS                | SparrOSDeveloperTeam   | Active       | [Link](https://sparrosdeveloperteam.github.io/SparrOS)           | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS)              |
-| SparrOS Pi             | SparrOSDeveloperTeam   | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS-Pi)              |
+| SparrOS                | SparrOSDeveloperTeam   | Active       | [Link](https://sparrosdeveloperteam.github.io/sparros)           | [Link](https://github.com/SparrOSDeveloperTeam/sparros)              |
+| SparrOS Pi             | SparrOSDeveloperTeam   | Active        | [Link](https://sparrosdeveloperteam.github.io/sparros-pi)             | [Link](https://github.com/SparrOSDeveloperTeam/sparros-pi)              |
 | DremOS                 | DremOSDeveloperTeam    | Dormant       | [Link](https://samparisot.github.io/DremOS)           | [Link](https://github.com/SamParisot/DremOS)             |
 | Ubuntu Netbook Edition | SparrOSDeveloperTeam   | Active       | [Link](https://sparrdrem.github.io/une)           | [Link](https://github.com/sparrdrem/une)             |
 | Ubuntu Mini-LTS Remix  | SparrOSDeveloperTeam and others       | [Link](https://sparrosdeveloperteam.github.io/mini-lts)           | [Link](https://github.com/SparrOSDeveloperTeam/mini-lts)              |
