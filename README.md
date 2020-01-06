@@ -12,6 +12,7 @@ We are currently working on different ways to access this site without the need 
 | YouTube   | The Sam&Yoe Group | [Link](https://www.youtube.com/channel/UCtP8T6GjJdAyq0pp9Obv97w)    |
 | Itch.io   | sparrdrem         | [Link](https://sparrdrem.itch.io)    |
 | Gossamer  | Project Gossamer  | [Link](https://github.com/pjgossamer)    |
+| Instagram | samandyoe         | [Link](https://instagram.com/u/samandyoe)    |
 
 ### Operating Systems
 
