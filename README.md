@@ -62,7 +62,7 @@ We are currently working on different ways to access this site without the need 
 | Project Name                         | Maintainers                                   | Status | Project Website | Project Repository |
 | :---:                                | :---:                                         | :---:  | :---:           | :---:              |
 | Sam&Yoe Group: The Video Game        | DremOSDeveloperTeam & SparrOSDeveloperTeam    | Active | [Link](https://sparrosdeveloperteam-win.github.io/SYGTVG-REL)           | [Link](https://github.com/SparrOSDeveloperTeam/SYGTVG-REL)              |
-| LALO: Early Development Access       | SparrOSDeveloperTeam                          | Paused | [Link](https://sparrdrem.itch.io/laloeda-0002)              | Not Available |
+| LALO: Early Development Access       | SparrOSDeveloperTeam                          | Paused | [Link](https://sparrdrem.itch.io/laloeda-0002)              | [Link](https://github.com/sparrdrem/lalo-archive)          |
 | HomeWARE                             | SparrOSDeveloperTeam & DremOS Developing Team | Active | [Link](https://sparrdrem.github.io/homeware)              | [Link](https://github.com/sparrdrem/homeware)              |
 | Old to New Remote Printing Standard  | DremOSDeveloperTeam                           | Active | Unfinished     | [Link](https://github.com/sparrdrem/otn)  |
 | OTN Modern Client Project (See Below)| DremOSDeveloperTeam                           | Active | Unfinished     | [Link](https://github.com/sparrdrem/otnmcp)  |
