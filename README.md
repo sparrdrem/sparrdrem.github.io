@@ -11,7 +11,7 @@ We are currently working on different ways to access this site without the need 
 | Launchpad | sparrdrem         | [Link](https://launchpad.net/~sparrdrem)    |
 | YouTube   | The Sam&Yoe Group | [Link](https://www.youtube.com/channel/UCtP8T6GjJdAyq0pp9Obv97w)    |
 | Itch.io   | sparrdrem         | [Link](https://sparrdrem.itch.io)    |
-| Gossamer  | Project Gossamer  | [Link](https://github.com/pjgossamer)    |
+| Gossamer  | Project Gossamer  | [Link](https://pjgossamer.github.io)    |
 | Instagram | samandyoe         | [Link](https://instagram.com/u/samandyoe)    |
 
 ### Operating Systems
@@ -64,8 +64,10 @@ We are currently working on different ways to access this site without the need 
 | Sam&Yoe Group: The Video Game        | DremOSDeveloperTeam & SparrOSDeveloperTeam    | Active | [Link](https://sparrosdeveloperteam-win.github.io/SYGTVG-REL)           | [Link](https://github.com/SparrOSDeveloperTeam/SYGTVG-REL)              |
 | LALO: Early Development Access       | SparrOSDeveloperTeam                          | Paused | [Link](https://sparrdrem.itch.io/laloeda-0002)              | [Link](https://github.com/sparrdrem/lalo-archive)          |
 | HomeWARE                             | SparrOSDeveloperTeam & DremOS Developing Team | Active | [Link](https://sparrdrem.github.io/homeware)              | [Link](https://github.com/sparrdrem/homeware)              |
+| hostname | SparrOSDeveloperTeam & Project Gossamer Team | Active | Not Available | [Link](https://github.com/pjgossamer/hostname) |
 | Old to New Remote Printing Standard  | DremOSDeveloperTeam                           | Active | Unfinished     | [Link](https://github.com/sparrdrem/otn)  |
 | OTN Modern Client Project (See Below)| DremOSDeveloperTeam                           | Active | Unfinished     | [Link](https://github.com/sparrdrem/otnmcp)  |
+| Project Gossamer | SparrOSDeveloperTeam & Project Gossamer Team | Active | [Link](https://pjgossamer.github.io) | [Link](https://github.com/pjgossamer) |
 
 ### OTN Modern Client Project Implimentations
 
