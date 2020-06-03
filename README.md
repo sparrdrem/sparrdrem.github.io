@@ -4,6 +4,12 @@ This website is mainly intended for links to many different projects that we are
 
 We are currently working on different ways to access this site without the need for bookmarking or memorizing the page.
 
+### Discord Communities
+| Project | Invitation Code|
+| :---: | :---: |
+| Sam&Yoe Official Discord Server | [WPqPvMx](https://discord.gg/WPqPvMx) |
+| Project Gossamer | [8Gv6KQ4](https://discord.gg/8Gv6KQ4)
+
 ### Official User Sites
 
 | Site      | User              | Website |
