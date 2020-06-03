@@ -7,8 +7,8 @@ We are currently working on different ways to access this site without the need 
 ### Discord Communities
 | Project                         | Invitation Code|
 | :---:                           | :---:          |
-| Sam&Yoe Official Discord Server | [WPqPvMx]     (https://discord.gg/WPqPvMx) |
-| Project Gossamer                | [8Gv6KQ4]     (https://discord.gg/8Gv6KQ4)
+| Sam&Yoe Official Discord Server | [WPqPvMx](https://discord.gg/WPqPvMx) |
+| Project Gossamer                | [8Gv6KQ4]     (https://discord.gg/8Gv6KQ4) |
 
 ### Official User Sites
 
