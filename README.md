@@ -17,7 +17,7 @@ Our project downloader tool is under construction. It is being written using C++
 | Itch.io   | sparrdrem         | [Link](https://sparrdrem.itch.io)    |
 | Gossamer  | Project Gossamer  | [Link](https://pjgossamer.github.io)    |
 | Instagram | samandyoe         | [Link](https://instagram.com/u/samandyoe)    |
-| Discord   | tm2048            | [Link1](https://discord.gg/WPqPvMx)[Link2](https://discord.com/8Gv6KQ4) |
+| Discord   | tm2048            | [Link1](https://discord.gg/WPqPvMx) [Link2](https://discord.com/8Gv6KQ4) |
 
 ### Operating Systems
 
