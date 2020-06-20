@@ -4,11 +4,9 @@ This website is mainly intended for links to many different projects that we are
 
 We are currently working on different ways to access this site without the need for bookmarking or memorizing the page.
 
-### Discord Communities
-| Project                         | Invitation Code|
-| :---:                           | :---:          |
-| Sam&Yoe Official Discord Server | [WPqPvMx](https://discord.gg/WPqPvMx) |
-| Project Gossamer                | [8Gv6KQ4](https://discord.gg/8Gv6KQ4) |
+### SparrDrem Downloader
+
+Our project downloader tool is under construction. It is being written using C++ on the DotNet language targeting CLR format. You can check out the source code [here](https://github.com/sparrdrem/sparrdrem-downloader)
 
 ### Official User Sites
 
@@ -19,6 +17,7 @@ We are currently working on different ways to access this site without the need 
 | Itch.io   | sparrdrem         | [Link](https://sparrdrem.itch.io)    |
 | Gossamer  | Project Gossamer  | [Link](https://pjgossamer.github.io)    |
 | Instagram | samandyoe         | [Link](https://instagram.com/u/samandyoe)    |
+| Discord   | tm2048            | [Link1](https://discord.gg/WPqPvMx)[Link2](https://discord.com/8Gv6KQ4) |
 
 ### Operating Systems
 
