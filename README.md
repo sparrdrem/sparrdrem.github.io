@@ -13,7 +13,7 @@ Our project downloader tool is under construction. It is being written using C++
 | Site      | User              | Website |
 | :---:     | :---:             | :---:   |
 | Launchpad | sparrdrem         | [Link](https://launchpad.net/~sparrdrem)    |
-| YouTube   | The Sam&Yoe Group | [Link](https://www.youtube.com/channel/UCtP8T6GjJdAyq0pp9Obv97w)    |
+| YouTube   | The Sam&Yoe Group | [Link](https://www.youtube.com/c/TheSamYoeGroup)    |
 | Itch.io   | sparrdrem         | [Link](https://sparrdrem.itch.io)    |
 | Gossamer  | Project Gossamer  | [Link](https://pjgossamer.github.io)    |
 | Instagram | samandyoe         | [Link](https://instagram.com/u/samandyoe)    |
