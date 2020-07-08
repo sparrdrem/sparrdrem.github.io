@@ -6,6 +6,8 @@ We are currently working on different ways to access this site without the need 
 
 ### SparrDrem Downloader
 
+Current release: [v1.0.0.0](https://github.com/sparrdrem/sparrdrem-downloader/releases/download/v1.0.0.0/sparrdrem-downloader_v1.0.0.0_setup_x86_english.zip)
+
 Our project downloader tool is under construction. It is being written using C++ on the DotNet language targeting CLR format. You can check out the source code [here](https://github.com/sparrdrem/sparrdrem-downloader)
 
 ### Official User Sites
