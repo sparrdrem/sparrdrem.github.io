@@ -27,7 +27,8 @@ Our project downloader tool is under construction. It is being written using C++
 | :---:                  | :---:                  | :---:        | :---:           | :---:              |
 | SparrOS                | SparrOSDeveloperTeam   | Active       | [Link](https://sparrosdeveloperteam.github.io/sparros)           | [Link](https://github.com/SparrOSDeveloperTeam/sparros)              |
 | SparrOS Pi             | SparrOSDeveloperTeam   | Active        | [Link](https://sparrosdeveloperteam.github.io/sparros-pi)             | [Link](https://github.com/SparrOSDeveloperTeam/sparros-pi)              |
-| DremOS                 | DremOSDeveloperTeam    | Dormant       | [Link](https://samparisot.github.io/DremOS)           | [Link](https://github.com/SamParisot/DremOS)             |
+| DremOS                 | DremOSDeveloperTeam    | Dormant       | [Link](https://sparrdrem.github.io/DremOS)           | [Link](https://github.com/sparrdrem/DremOS)             |
+| DremDOS                | DremOSDeveloperTeam    | Active       | Not availible   | [Link](https://github.com/sparrdrem/dremdos) |
 | Ubuntu Netbook Edition | SparrOSDeveloperTeam   | Active       | [Link](https://sparrdrem.github.io/une)           | [Link](https://github.com/sparrdrem/une)             |
 | Ubuntu Mini-LTS Remix  | SparrOSDeveloperTeam and others       | [Link](https://sparrosdeveloperteam.github.io/mini-lts)           | [Link](https://github.com/SparrOSDeveloperTeam/mini-lts)              |
 | Commodore OS Vision II | SparrOSDeveloperTeam   | Active       | [Link](https://sparrosdeveloperteam.github.io/COS)           | [Link](https://github.com/SparrOSDeveloperTeam/COS)                    |
@@ -70,6 +71,7 @@ Our project downloader tool is under construction. It is being written using C++
 | :---:                                | :---:                                         | :---:  | :---:           | :---:              |
 | Sam&Yoe Group: The Video Game        | DremOSDeveloperTeam & SparrOSDeveloperTeam    | Active | [Link](https://sparrosdeveloperteam-win.github.io/SYGTVG-REL)           | [Link](https://github.com/SparrOSDeveloperTeam/SYGTVG-REL)              |
 | LALO: Early Development Access       | SparrOSDeveloperTeam                          | Paused | [Link](https://sparrdrem.itch.io/laloeda-0002)              | [Link](https://github.com/sparrdrem/lalo-archive)          |
+| Project BLANC (owo whats this?)      | SparrOSDeveloperTeam & DremOSDeveloperTeam    | Planning | [Link](#) | [Link](#) |
 | HomeWARE                             | SparrOSDeveloperTeam & DremOS Developing Team | Active | [Link](https://sparrdrem.github.io/homeware)              | [Link](https://github.com/sparrdrem/homeware)              |
 | hostname | SparrOSDeveloperTeam & Project Gossamer Team | Active | Not Available | [Link](https://github.com/pjgossamer/hostname) |
 | Old to New Remote Printing Standard  | DremOSDeveloperTeam                           | Active | Unfinished     | [Link](https://github.com/sparrdrem/otn)  |
@@ -82,9 +84,9 @@ Notice: Any project below that is marked as "Active" but has no source code is m
 
 | Implimentation                       | Maintainers         | Status  | Website Link | Project Branch |
 | :---:                                | :---:               | :---:   | :---:        | :---:          |
-| Chrome Extension                     | DremOSDeveloperTeam | Active  | Unfinished   | [chrome](https://github.com/sparrdrem/otnmcp/tree/chrome)  |
+| Chrome Extension                     | DremOSDeveloperTeam | Planned  | Unfinished   | [chrome](https://github.com/sparrdrem/otnmcp/tree/chrome)  |
 | HTML                                 | DremOSDeveloperTeam | Planned | Unfinished   | [html](https://github.com/sparrdrem/otnmcp/tree/html)     |
-| Nintendo 3DS (why did we make this?) | DremOSDeveloperTeam | Active  | Unfinished   | [3ds](https://github.com/sparrdrem/otnmcp/tree/3ds)     |
+| Nintendo 3DS (why did we make this?) | DremOSDeveloperTeam | Planned  | Unfinished   | [3ds](https://github.com/sparrdrem/otnmcp/tree/3ds)     |
 
 ### Installer Projects
 
@@ -99,7 +101,7 @@ Notice: Any project below that is marked as "Active" but has no source code is m
 | :---:        | :---:                  | :---:        | :---:     | :---:              |
 | SYGTVG-MODS  | SparrOSDeveloperTeam   | Active       | SYGTVG    | [Link](https://github.com/sparrdrem/SYGTVG-MODS)              |
 | DOS_PC       | SparrOSDeveloperTeam   | Discontinued | Minetest  | [Link](https://github.com/SparrOSDeveloperTeam/Dos_Pc)              |
-| CraftOS      | DremOSDeveloperTeam    | Unknown      | Minecraft | [Link](https://github.com/DremOSDeveloperTeam/CraftOS)              |
+| CraftOS      | DremOSDeveloperTeam    | Dormant      | Minecraft | [Link](https://github.com/DremOSDeveloperTeam/CraftOS)              |
 
 ### Official PPAs
 
@@ -108,7 +110,7 @@ Notice: Any project below that is marked as "Active" but has no source code is m
 | sparrdrem/public      | Active  | [Link](https://launchpad.net/~sparrdrem/public)            |
 | sparrdrem/testing     | Private | [Link](https://launchpad.net/~sparrdrem/testing)            |
 | sparrdrem/sygtvg      | Paused  | [Link](https://launchpad.net/~sparrdrem/sygtvg)            |
-| sparrdrem/switchbuntu | Unknown | [Link](https://launchpad.net/~sparrdrem/switchbuntu)            |
+| sparrdrem/switchbuntu | Dormant | [Link](https://launchpad.net/~sparrdrem/switchbuntu)            |
 | sparrdrem/pubg        | Active  | [Link](https://launchpad.net/~sparrdrem/pubg)            |
 | sparrdrem/laloeda     | Active  | [Link](https://launchpad.net/~sparrdrem/laloeda)              |
 
@@ -118,7 +120,7 @@ Notice: Any project below that is marked as "Active" but has no source code is m
 | :---:                    | :---:                  | :---:        | :---:         | :---:              |
 | Ubuntu Archived Debs     | SparrOSDeveloperTeam   | Active       | [Link](https://sparrdrem.github.io/ubuntu)            | [Link](https://github.com/sparrdrem/ubuntu)               |
 | OAOO-Terminal-Fo3        | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam-Win/OAOO-Terminal-Fo3)            |
-| NXFront                  | DremOSDeveloperTeam    | Planning     | Not Available | [Link](https://github.com/DremOSDeveloperTeam/NXFront)
+| NXFront                  | DremOSDeveloperTeam    | No Longer Planned | Not Available | [Link](https://github.com/DremOSDeveloperTeam/NXFront)
 | Windows-9x-Dreamcast     | SparrOSDeveloperTeam   | Active       | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/Windows-9x-Dreamcast)              |
 | GBA Unix                 | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/gbaunix-0.0)              |
 | New Cr OS Linux Disc 2   | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/New-Cr-OS-Linux-X64-Disc2)               |
