@@ -33,11 +33,7 @@ Cancelled/Discontinued projects are usually projects we will most likely never t
 | SparrOS Pi             | SparrOSDeveloperTeam   | Active        | [Link](https://sparrosdeveloperteam.github.io/sparros-pi)             | [Link](https://github.com/SparrOSDeveloperTeam/sparros-pi)              |
 | DremOS                 | DremOSDeveloperTeam    | Dormant       | [Link](https://sparrdrem.github.io/DremOS)           | [Link](https://github.com/sparrdrem/DremOS)             |
 | DremDOS                | DremOSDeveloperTeam    | Active       | Not availible   | [Link](https://github.com/sparrdrem/dremdos) |
-| Ubuntu Netbook Edition | SparrOSDeveloperTeam   | Discontinued | [Link](https://sparrdrem.github.io/une)           | [Link](https://github.com/sparrdrem/une)             |
-| Ubuntu Mini-LTS Remix  | SparrOSDeveloperTeam   | Discontinued | [Link](https://sparrosdeveloperteam.github.io/mini-lts)           | [Link](https://github.com/SparrOSDeveloperTeam/mini-lts)              |
-| Commodore OS Vision II | SparrOSDeveloperTeam   | Discontinued | [Link](https://sparrosdeveloperteam.github.io/COS)           | [Link](https://github.com/SparrOSDeveloperTeam/COS)                    |
 | Commodore OS Vision III | SparrOSDeveloperTeam | Preparing for Activation | Not Available | Not Available |
-| ImagePE (WinPE)        | SparrDrem              | Discontinued | Not Available   | [Link](https://github.com/sparrdrem/imagepe)
 | DOSRescuer             | SparrOSDeveloperTeam   | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS-DOSRescuer)              |
 | DOS_PE                 | SparrOSDeveloperTeam   | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/DOS_PE)              |
 
