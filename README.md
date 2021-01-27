@@ -37,7 +37,7 @@ Cancelled/Discontinued projects are usually projects we will most likely never t
 | DOSRescuer             | SparrOSDeveloperTeam   | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS-DOSRescuer)              |
 | DOS_PE                 | SparrOSDeveloperTeam   | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/DOS_PE)              |
 
-### HTML, CSS, and JS Projects
+### Web Projects (HTML, CSS, JS, PHP, etc.)
 
 | Project Name     | Maintainers                                   | Status       | Project Website | Project Repository |
 | :---:            | :---:                                         | :---:        | :---:           | :---:              |
