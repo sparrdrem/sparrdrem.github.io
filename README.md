@@ -56,15 +56,17 @@ Cancelled/Discontinued projects are usually projects we will most likely never t
 | woa-driverdb                      | SparrOSDeveloperTeam     | Active       | [Link](https://sparrdrem.github.io/woa-driverdb)           | [Link](https://github.com/sparrdrem/woa-driverdb)             |
 | Halo Portable Edition Maker       | SparrOSDeveloperTeam     | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/halo)              |
 | Free Sonic Collection PC          | SparrOSDeveloperTeam     | Discontinued | [Link](https://sparrosdeveloperteam.github.io/sonicpc)           | [Link](https://github.com/SparrOSDeveloperTeam/sonicpc)              |
-| WoAPi                             | DremOSDeveloperTeam      | Dormant      | [Link](https://sparrdrem.github.io/WoAPi)          | [Link](https://github.com/sparrdrem/WoAPi)            |
+| WoAPi                             | DremOSDeveloperTeam      | Discontinued | [Link](https://sparrdrem.github.io/WoAPi)          | [Link](https://github.com/sparrdrem/WoAPi)            |
 | ReactOS Update                    | SparrOSDeveloperTeam-Win | Discontinued | [Link](https://sparrosdeveloperteam-win.github.io/rosupdpage/index.html)           | [Link](https://github.com/SparrOSDeveloperTeam-Win/rosupdpage)              |
-| Windows 9 Downloader              | DremOSDeveloperTeam      | Dormant      | [Link](https://sparrdrem.github.io/Windows-9-Downloader)           | [Link](https://github.com/sparrdrem/Windows-9-Downloader)              |
+| Windows 9 Downloader              | DremOSDeveloperTeam      | Discontinued¹ | [Link](https://sparrdrem.github.io/Windows-9-Downloader)           | [Link](https://github.com/sparrdrem/Windows-9-Downloader)              |
 | Windows Xp SP4 (x86)              | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/https://github.com/SparrOSDeveloperTeam/Windows-Xp-x86-SP4-KB2942844)              |
 | Windows Xp SP3 (x64)              | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/Windows-Xp-x64-SP3-KB2942844)              |
 | Qi120983 ReactOS Update           | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam-Win/IExpress-ReactOS-Qi120983)              |
 | Windows 2003 SP3                  | SparrOSDeveloperTeam-Win | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam-Win/Windows-2003-x86-SP3-KB2942844)              |
 | Soundblaster Emulation DOS        | SparrOSDeveloperTeam     | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SoundBlaster-Emulation-DOS)              |
 | Setup Autorun Creator for Windows | SparrOSDeveloperTeam     | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS-Autorun-Setup-Creator-for-Windows)              |
+
+¹ This project was discontinued because it is considered to be in a "finished" state.
 
 ### Multi Platform Projects
 
@@ -73,7 +75,7 @@ Cancelled/Discontinued projects are usually projects we will most likely never t
 | Sam&Yoe Group: The Video Game        | DremOSDeveloperTeam & SparrOSDeveloperTeam    | Rebooting | [Link](https://sparrosdeveloperteam-win.github.io/SYGTVG-REL)           | [Link](https://github.com/SparrOSDeveloperTeam/SYGTVG-REL)              |
 | LALO: Early Development Access       | SparrOSDeveloperTeam                          | Cancelled for Project Gossamer | [Link](https://sparrdrem.itch.io/laloeda-0002)              | [Link](https://github.com/sparrdrem/lalo-archive)          |
 | Project BLANC (owo whats this?)      | SparrOSDeveloperTeam & DremOSDeveloperTeam    | Planning | [Link](#) | [Link](#) |
-| HomeWARE                             | SparrOSDeveloperTeam & DremOS Developing Team | Paused | [Link](https://sparrdrem.github.io/homeware)              | [Link](https://github.com/sparrdrem/homeware)              |
+| HomeWARE                             | SparrOSDeveloperTeam & DremOS Developing Team | Dormant | [Link](https://sparrdrem.github.io/homeware)              | [Link](https://github.com/sparrdrem/homeware)              |
 | hostname | SparrOSDeveloperTeam & Project Gossamer Team | Active | Not Available | [Link](https://github.com/pjgossamer/hostname) |
 | Old to New Remote Printing Standard  | DremOSDeveloperTeam                           | Active | Unfinished     | [Link](https://github.com/sparrdrem/otn)  |
 | OTN Modern Client Project (See Below)| DremOSDeveloperTeam                           | Active | Unfinished     | [Link](https://github.com/sparrdrem/otnmcp)  |
@@ -85,9 +87,9 @@ Notice: Any project below that is marked as "Active" but has no source code is m
 
 | Implimentation                       | Maintainers         | Status  | Website Link | Project Branch |
 | :---:                                | :---:               | :---:   | :---:        | :---:          |
-| Chrome Extension                     | DremOSDeveloperTeam | Planned  | Unfinished   | [chrome](https://github.com/sparrdrem/otnmcp/tree/chrome)  |
-| HTML                                 | DremOSDeveloperTeam | Planned | Unfinished   | [html](https://github.com/sparrdrem/otnmcp/tree/html)     |
-| Nintendo 3DS (why did we make this?) | DremOSDeveloperTeam | Planned  | Unfinished   | [3ds](https://github.com/sparrdrem/otnmcp/tree/3ds)     |
+| Chrome Extension                     | DremOSDeveloperTeam | Planned  | Unfinished  | [chrome](https://github.com/sparrdrem/otnmcp/tree/chrome)  |
+| HTML                                 | DremOSDeveloperTeam | Planned  | Unfinished  | [html](https://github.com/sparrdrem/otnmcp/tree/html)     |
+| Nintendo 3DS (why did we make this?) | DremOSDeveloperTeam | Planned  | Unfinished  | [3ds](https://github.com/sparrdrem/otnmcp/tree/3ds)     |
 
 ### Installer Projects
 
@@ -102,7 +104,7 @@ Notice: Any project below that is marked as "Active" but has no source code is m
 | :---:        | :---:                  | :---:        | :---:     | :---:              |
 | SYGTVG-MODS  | SparrOSDeveloperTeam   | Discontinued | SYGTVG    | [Link](https://github.com/sparrdrem/SYGTVG-MODS)              |
 | DOS_PC       | SparrOSDeveloperTeam   | Discontinued | Minetest  | [Link](https://github.com/SparrOSDeveloperTeam/Dos_Pc)              |
-| CraftOS      | DremOSDeveloperTeam    | Dormant      | Minecraft | [Link](https://github.com/DremOSDeveloperTeam/CraftOS)              |
+| CraftOS      | DremOSDeveloperTeam    | Cancelled    | Minecraft | [Link](https://github.com/DremOSDeveloperTeam/CraftOS)              |
 
 ### Official PPAs
 
@@ -120,7 +122,7 @@ Notice: Any project below that is marked as "Active" but has no source code is m
 | :---:                    | :---:                  | :---:        | :---:         | :---:              |
 | Ubuntu Archived Debs     | SparrOSDeveloperTeam   | Active | [Link](https://sparrdrem.github.io/ubuntu)            | [Link](https://github.com/sparrdrem/ubuntu)               |
 | OAOO-Terminal-Fo3        | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam-Win/OAOO-Terminal-Fo3)            |
-| NXFront                  | DremOSDeveloperTeam    | No Longer Planned | Not Available | [Link](https://github.com/DremOSDeveloperTeam/NXFront)
+| NXFront                  | DremOSDeveloperTeam    | Cancelled    | Not Available | [Link](https://github.com/DremOSDeveloperTeam/NXFront)
 | Windows-9x-Dreamcast     | SparrOSDeveloperTeam   | Active       | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/Windows-9x-Dreamcast)              |
 | GBA Unix                 | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/gbaunix-0.0)              |
 | New Cr OS Linux Disc 2   | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/New-Cr-OS-Linux-X64-Disc2)               |
