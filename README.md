@@ -52,7 +52,7 @@ Cancelled/Discontinued projects are usually projects we will most likely never t
 
 | Project Name                      | Maintainers              | Status       | Project Website | Project Repository |
 | :---:                             | :---:                    | :---:        | :---:           | :---:              |
-| Gencode                           | SparrDrem                | Active       | [Link](https://sparrdrem.github.io/gencode)                | [Link](https://github.com/sparrdrem/gencode)              |
+| Gencode                           | SparrosDeveloperTeam & DremOSDevloperTeam | Active       | [Link](https://sparrdrem.github.io/gencode)                | [Link](https://github.com/sparrdrem/gencode)              |
 | woa-driverdb                      | SparrOSDeveloperTeam     | Active       | [Link](https://sparrdrem.github.io/woa-driverdb)           | [Link](https://github.com/sparrdrem/woa-driverdb)             |
 | Halo Portable Edition Maker       | SparrOSDeveloperTeam     | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/halo)              |
 | Free Sonic Collection PC          | SparrOSDeveloperTeam     | Discontinued | [Link](https://sparrosdeveloperteam.github.io/sonicpc)           | [Link](https://github.com/SparrOSDeveloperTeam/sonicpc)              |
