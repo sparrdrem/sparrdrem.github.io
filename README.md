@@ -43,7 +43,7 @@ Cancelled/Discontinued projects are usually projects we will most likely never t
 | :---:            | :---:                                         | :---:        | :---:           | :---:              |
 | DremJS           | DremOSDeveloperTeam & SparrOSDeveloperTeam    | Active       | [Link](https://sparrdrem.github.io/DremJS)           | [Link](https://github.com/sparrdrem/DremJS)              |
 | DremJS Embedded  | DremOSDeveloperTeam & SparrOSDeveloperTeam    | Active       | [Link](https://sparrdrem.github.io/DremJS-Embedded)           | [Link](https://github.com/sparrdrem/DremJS-Embedded)             |
-| DremJS Wear      | DremOSDeveloperTeam                           | Dormant      | Unfinished      | [Link](https://github.com/sparrdrem/DremJS-Wear/) |
+| DremJS Wear      | DremOSDeveloperTeam                           | Discontinued | Unfinished      | [Link](https://github.com/sparrdrem/DremJS-Wear/) |
 | collection.js    | SparrOSDeveloperTeam                          | Paused | [Link](https://sparrdrem.github.io/collection.js)           | [Link](https://github.com/sparrdrem/collection.js)              |
 | Start Button     | SparrOSDeveloperTeam                          | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/Start)              |
 | SparrOS Tutorial | SparrOSDeveloperTeam                          | Discontinued | Not Available   | [Link](https://github.com/SparrOSDeveloperTeam/SparrOS-Tutorial-Starter)              |
