@@ -43,3 +43,19 @@ Here is a list of our projects that have been cancelled along with years in deve
 * Project Repository: Not Available
 * Description: A free tool used to create/flash images through the Preinstallation Environment system. This was more featured around how many imaging tools it could hold.
 * Cause of Cancellation: Rebooted too soon, Lack of interest.
+
+### CraftOS
+* Years Active: 2018
+* Authors: DremOSDeveloperTeam
+* Project Site: N/A
+* Project Repository: [Link](https://github.com/DremOSDeveloperTeam/CraftOS)
+* Description: A fork of [Mimic](https://github.com/1lann/Mimic), an emulator for the operating system (CraftOS) that runs on ComputerCraft computers. This was intended to continue development of it, but it never happened. This may be revisited later, but it's highly unlikely.
+* Cause of Cancellation: Lack of interest. Didn't know how to program very well then.
+
+### NXFront
+* Years Active: 2018
+* Authors: DremOSDeveloperTeam
+* Project Site: N/A
+* Project Repository: [Link](https://github.com/DremOSDeveloperTeam/NXFront)
+* Description: A web browser for the Nintendo Switch.
+* Cause of Cancellation: Lack of interest. Didn't know how to write C++ code.
