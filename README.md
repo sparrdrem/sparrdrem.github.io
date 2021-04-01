@@ -123,7 +123,7 @@ Notice: Any project below that is marked as "Active" but has no source code is m
 | Ubuntu Archived Debs     | SparrOSDeveloperTeam   | Active | [Link](https://sparrdrem.github.io/ubuntu)            | [Link](https://github.com/sparrdrem/ubuntu)               |
 | OAOO-Terminal-Fo3        | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam-Win/OAOO-Terminal-Fo3)            |
 | NXFront                  | DremOSDeveloperTeam    | Cancelled    | Not Available | [Link](https://github.com/DremOSDeveloperTeam/NXFront)
-| Windows-9x-Dreamcast     | SparrOSDeveloperTeam   | Active       | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/Windows-9x-Dreamcast)              |
+| Windows-9x-Dreamcast     | SparrOSDeveloperTeam   | Paused       | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/Windows-9x-Dreamcast)              |
 | GBA Unix                 | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/gbaunix-0.0)              |
 | New Cr OS Linux Disc 2   | SparrOSDeveloperTeam   | Discontinued | Not Available | [Link](https://github.com/SparrOSDeveloperTeam/New-Cr-OS-Linux-X64-Disc2)               |
 | Yoe's NDS Cheat Database | SparrOSDeveloperTeam   | Paused | [Link](https://sparrosdeveloperteam.github.io/yoes-nds-cheat-database/)           | [Link](https://github.com/SparrOSDeveloperTeam/yoes-nds-cheat-database)               |
